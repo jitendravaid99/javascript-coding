@@ -27,8 +27,12 @@ JsUser.email = "jiten@chatgpt.com"
 
 // console.log(JsUser)
 
-JsUser.greeting = function() {
+JsUser.greeting = function(){
     console.log("hello JS users");
 }
 
-console.log(JsUser.greeting);
+JsUser.greeting2 = function(){
+    console.log("hello JS users");
+}
+
+console.log(JsUser);

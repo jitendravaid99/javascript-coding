@@ -19,3 +19,17 @@ console.log(val1)
 
 // condition ? true  : false 
 
+// if ([]){                 // check for empty array
+//     console.log("True")
+
+// } else {
+//     cosole.log("false")
+// }
+/////////////////////
+if ({}){                    // check for empty object
+    console.log("True")
+
+} else {
+    cosole.log("false")
+}
+

@@ -69,3 +69,12 @@ function handleObject(anyObject){
 }
 
 handleObject(user)
+
+// Arrow function
+
+const arrow1 (val) => {
+console.log(`Welcome ${val} ! `)
+
+}
+
+arrow1("Jiten")

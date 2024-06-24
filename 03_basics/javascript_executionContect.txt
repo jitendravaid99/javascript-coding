@@ -1,0 +1,21 @@
+Javascript Execution context
+
+{} --> Global (this) EC 
+
+--> Global execution context
+
+function execution context
+
+eval execution context
+
+{} 
+--> Memory creation phase or creation phase
+
+
+--> execution phase
+
+call stack FILO
+
+
+
+
